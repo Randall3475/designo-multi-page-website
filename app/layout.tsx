@@ -1,5 +1,4 @@
-import "@/app/styles/base/reset.sass";
-import "@/app/styles/base/variables.sass";
+import "@/app/styles/index.sass";
 
 import Header from "@/app/components/Header";
 import GetInTouch from "@/app/components/GetInTouch";

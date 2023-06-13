@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "@/app/styles/Benefits.module.sass";
+import styles from "@/app/styles/components/Benefits.module.sass";
 
 const Benefits = () => {
   return (

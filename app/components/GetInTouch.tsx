@@ -1,4 +1,4 @@
-import styles from "@/app/styles/GetInTouch.module.sass";
+import styles from "@/app/styles/components/GetInTouch.module.sass";
 import Link from 'next/link'
 
 const GetInTouch = () => {

@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import styles from "@/app/styles/Hero.module.sass";
+import styles from "@/app/styles/components/Hero.module.sass";
 
 const Hero = () => {
   return (

@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import styles from '@/app/styles/Header.module.sass'
+import styles from '@/app/styles/components/Header.module.sass'
 
 const Header = () => {
   return (
