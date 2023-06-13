@@ -5,7 +5,7 @@ import styles from '@/app/styles/Header.module.sass'
 const Header = () => {
   return (
     <header className={styles.header}>
-        <Image src="/images/shared/desktop/logo-dark.png" width={152} height={20} alt="Designo logo" />
+        <Link href="/"><Image src="/images/shared/desktop/logo-dark.png" width={152} height={20} alt="Designo logo" /></Link>
         <nav>
             <Link href="/our-company">Our company</Link>
             <Link href="/locations">Locations</Link>
